@@ -1,7 +1,11 @@
+import javax.swing.*;
+
 public class Ciclos {
 
     public static void main(String[] args) {
-        //prueba del repositorio de github
-        // cambio al documento
+        for (int i = 0; i <=3; i++){
+            JOptionPane.showMessageDialog(null,"Hola mundo");
+
+        }
     }
 }
